@@ -8,7 +8,7 @@ Just a short writeup.
 
 ## Software
 * Retropie
-* tft overlay file (https://github.com/philenotfound/rpi_elecfreaks_22_tft_dt_overlay) __mind the change from *.dtb to *-dtbo__
+* tft overlay file (https://github.com/philenotfound/rpi_elecfreaks_22_tft_dt_overlay) __mind the change from *.dtb to *.dtbo__
 * fbcp (https://github.com/tasanakorn/rpi-fbcp)
 
 ## Guides
